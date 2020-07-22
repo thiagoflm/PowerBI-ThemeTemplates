@@ -14,7 +14,9 @@
 					"fontSize": 10,
 					"fontFamily": "Verdana"
 				}],
-				"cardTitle": [{
+				"title": [{
+					"show": true,
+					"text": "My Title",
 					"color": { "solid": { "color": "#01B8AA"}},
 					"fontSize": 10,
 					"fontFamily": "Verdana"
